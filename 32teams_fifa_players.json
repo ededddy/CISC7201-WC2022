@@ -1,0 +1,4381 @@
+{
+    "Argentina": [
+        {
+            "first_name": "Franco",
+            "last_name": "ARMANI",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Geronimo",
+            "last_name": "RULLI",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Damian",
+            "last_name": "MARTINEZ",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Juan",
+            "last_name": "FOYTH",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Nicolas",
+            "last_name": "TAGLIAFICO",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Gonzalo",
+            "last_name": "MONTIEL",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "German",
+            "last_name": "PEZZELLA",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Cristian",
+            "last_name": "ROMERO",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Nicolas",
+            "last_name": "OTAMENDI",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Lisandro",
+            "last_name": "MARTINEZ",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Nahuel",
+            "last_name": "MOLINA",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Leandro",
+            "last_name": "PAREDES",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Rodrigo",
+            "last_name": "DE PAUL",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Marcos",
+            "last_name": "ACUNA",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Exequiel",
+            "last_name": "PALACIOS",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Thiago",
+            "last_name": "ALMADA",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Alejandro",
+            "last_name": "GOMEZ",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "RODRIGUEZ",
+            "last_name": "GUIDO",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Alexis",
+            "last_name": "MAC ALLISTER",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Enzo",
+            "last_name": "FERNANDEZ",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Julian",
+            "last_name": "ALVAREZ",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Lionel",
+            "last_name": "MESSI",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Angel",
+            "last_name": "DI MARIA",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Angel",
+            "last_name": "CORREA",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Paulo",
+            "last_name": "DYBALA",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Lautaro",
+            "last_name": "MARTINEZ",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Lionel",
+            "last_name": "SCALONI",
+            "role": "MANAGER"
+        }
+    ],
+    "Australia": [
+        {
+            "first_name": "Mathew",
+            "last_name": "RYAN",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Andrew",
+            "last_name": "REDMAYNE",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Danny",
+            "last_name": "VUKOVIC",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Milos",
+            "last_name": "DEGENEK",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Nathaniel",
+            "last_name": "ATKINSON",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Kye",
+            "last_name": "ROWLES",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Fran",
+            "last_name": "KARACIC",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Bailey",
+            "last_name": "WRIGHT",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Aziz",
+            "last_name": "BEHICH",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Harry",
+            "last_name": "SOUTTAR",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Thomas",
+            "last_name": "DENG",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Joel",
+            "last_name": "KING",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Marco",
+            "last_name": "TILIO",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Mathew",
+            "last_name": "LECKIE",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Jamie",
+            "last_name": "MacLAREN",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Awer",
+            "last_name": "MABIL",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Mitch",
+            "last_name": "DUKE",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Garang",
+            "last_name": "KUOL",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Craig",
+            "last_name": "GOODWIN",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Jason",
+            "last_name": "CUMMINGS",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Ajdin",
+            "last_name": "HRUSTIC",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Aaron",
+            "last_name": "MOOY",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Riley",
+            "last_name": "McGREE",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Cameron",
+            "last_name": "DEVLIN",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Jackson",
+            "last_name": "IRVINE",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Keanu",
+            "last_name": "BACCUS",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Graham",
+            "last_name": "James Arnold",
+            "role": "MANAGER"
+        }
+    ],
+    "Belgium": [
+        {
+            "first_name": "Thibaut",
+            "last_name": "COURTOIS",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Simon",
+            "last_name": "MIGNOLET",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Koen",
+            "last_name": "CASTEELS",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Toby",
+            "last_name": "ALDERWEIRELD",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Arthur",
+            "last_name": "THEATE",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Wout",
+            "last_name": "FAES",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Jan",
+            "last_name": "VERTONGHEN",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Leander",
+            "last_name": "DENDONCKER",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Zeno",
+            "last_name": "DEBAST",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Axel",
+            "last_name": "WITSEL",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Kevin",
+            "last_name": "DE BRUYNE",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Youri",
+            "last_name": "TIELEMANS",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Thomas",
+            "last_name": "MEUNIER",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Thorgan",
+            "last_name": "HAZARD",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Amadou",
+            "last_name": "ONANA",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Hans",
+            "last_name": "VANAKEN",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Timothy",
+            "last_name": "CASTAGNE",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Romelu",
+            "last_name": "LUKAKU",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Eden",
+            "last_name": "HAZARD",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Yannick",
+            "last_name": "CARRASCO",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Dries",
+            "last_name": "MERTENS",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Leandro",
+            "last_name": "TROSSARD",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "DE",
+            "last_name": "KETELAERE",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Michy",
+            "last_name": "BATSHUAYI",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Lois",
+            "last_name": "OPENDA",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Jeremy",
+            "last_name": "DOKU",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Roberto",
+            "last_name": "Mart\u00ednez Montoli\u00fa",
+            "role": "MANAGER"
+        }
+    ],
+    "Brazil": [
+        {
+            "first_name": "ALISSON",
+            "last_name": "",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "WEVERTON",
+            "last_name": "",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "EDERSON",
+            "last_name": "",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "DANILO",
+            "last_name": "",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "THIAGO",
+            "last_name": "SILVA",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "MARQUINHOS",
+            "last_name": "",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "ALEX",
+            "last_name": "SANDRO",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "DANI",
+            "last_name": "ALVES",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "EDER",
+            "last_name": "MILITAO",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "ALEX",
+            "last_name": "TELLES",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "BREMER",
+            "last_name": "",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "CASEMIRO",
+            "last_name": "",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "LUCAS",
+            "last_name": "PAQUETA",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "FRED",
+            "last_name": "",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "FABINHO",
+            "last_name": "",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "BRUNO",
+            "last_name": "GUIMARAES",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "EVERTON",
+            "last_name": "RIBEIRO",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "RICHARLISON",
+            "last_name": "",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "NEYMAR",
+            "last_name": "",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "RAPHINHA",
+            "last_name": "",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "GABRIEL",
+            "last_name": "JESUS",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "ANTONY",
+            "last_name": "",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "VINICIUS",
+            "last_name": "JR",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "RODRYGO",
+            "last_name": "",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "PEDRO",
+            "last_name": "",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "GABRIEL",
+            "last_name": "MARTINELLI",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "TITE",
+            "last_name": "",
+            "role": "MANAGER"
+        }
+    ],
+    "Cameroon": [
+        {
+            "first_name": "Brady",
+            "last_name": "NGAPANDOUETNBU",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Devis",
+            "last_name": "EPASSY",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Andre",
+            "last_name": "ONANA",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Jerome",
+            "last_name": "NGOM MBEKELI",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Nicolas",
+            "last_name": "NKOULOU",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Christopher",
+            "last_name": "WOOH",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Olivier",
+            "last_name": "MBAIZO",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Collins",
+            "last_name": "FAI",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Jean-Charles",
+            "last_name": "CASTELLETTO",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Enzo",
+            "last_name": "EBOSSE",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Nouhou",
+            "last_name": "TOLO",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Gael",
+            "last_name": "ONDOUA",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Georges-Kevin",
+            "last_name": "NKOUDOU",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Andre-Frank",
+            "last_name": "ZAMBO ANGUISSA",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Samuel",
+            "last_name": "GOUET",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Pierre",
+            "last_name": "KUNDE",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Martin",
+            "last_name": "HONGLA",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Olivier",
+            "last_name": "NTCHAM",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Souaibou",
+            "last_name": "MAROU",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Nicolas",
+            "last_name": "NGAMALEU",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Jean-Pierre",
+            "last_name": "Nsame",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Vincent",
+            "last_name": "ABOUBAKAR",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Christian",
+            "last_name": "BASSOGOG",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Karl",
+            "last_name": "TOKO EKAMBI",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Eric",
+            "last_name": "Maxim CHOUPO-MOTING",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Bryan",
+            "last_name": "MBEUMO",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Rigobert",
+            "last_name": "Song Bahanag",
+            "role": "MANAGER"
+        }
+    ],
+    "Canada": [
+        {
+            "first_name": "Dayne",
+            "last_name": "ST. CLAIR",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "James",
+            "last_name": "PANTEMIS",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Milan",
+            "last_name": "BORJAN",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Alistair",
+            "last_name": "JOHNSTON",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Sam",
+            "last_name": "ADEKUGBE",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Kamal",
+            "last_name": "MILLER",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Steven",
+            "last_name": "VITORIA",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Richie",
+            "last_name": "LARYEA",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Derek",
+            "last_name": "CORNELIUS",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Joel",
+            "last_name": "WATERMAN",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Samuel",
+            "last_name": "PIETTE",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Stephen",
+            "last_name": "EUSTAQUIO",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Liam",
+            "last_name": "FRASER",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Junior",
+            "last_name": "HOILETT",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Atiba",
+            "last_name": "HUTCHINSON",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Mark-Anthony",
+            "last_name": "KAYE",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Ismael",
+            "last_name": "KONE",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Jonathan",
+            "last_name": "OSORIO",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Liam",
+            "last_name": "MILLAR",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "David",
+            "last_name": "WOTHERSPOON",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Lucas",
+            "last_name": "CAVALLINI",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Tajon",
+            "last_name": "BUCHANAN",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Ike",
+            "last_name": "UGBO",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Cyle",
+            "last_name": "LARIN",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Alphonso",
+            "last_name": "DAVIES",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Jonathan",
+            "last_name": "DAVID",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "John",
+            "last_name": "Herdman",
+            "role": "MANAGER"
+        }
+    ],
+    "Costa Rica": [
+        {
+            "first_name": "Keylor",
+            "last_name": "NAVAS",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Esteban",
+            "last_name": "ALVARADO",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Patrick",
+            "last_name": "SEQUEIRA",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Daniel",
+            "last_name": "CHACON",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Celso",
+            "last_name": "BORGES",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Jewison",
+            "last_name": "BENNETTE",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Bryan",
+            "last_name": "RUIZ",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Gerson",
+            "last_name": "TORRES",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Youstin",
+            "last_name": "SALAS",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Yeltsin",
+            "last_name": "TEJEDA",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Brandon",
+            "last_name": "AGUILERA",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Douglas",
+            "last_name": "LOPEZ",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Roan",
+            "last_name": "WILSON",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Anthony",
+            "last_name": "HERNANDEZ",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Alvaro",
+            "last_name": "ZAMORA",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Juan",
+            "last_name": "VARGAS",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Keysher",
+            "last_name": "FULLER",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Oscar",
+            "last_name": "DUARTE",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Bryan",
+            "last_name": "OVIEDO",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Francisco",
+            "last_name": "CALVO",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Carlos",
+            "last_name": "MARTINEZ",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Kendall",
+            "last_name": "WASTON",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Ronald",
+            "last_name": "MATARRITA",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Anthony",
+            "last_name": "CONTRERAS",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Johan",
+            "last_name": "VENEGAS",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Joel",
+            "last_name": "CAMPBELL",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Luis",
+            "last_name": "Fernando Su\u00e1rez Guzman",
+            "role": "MANAGER"
+        }
+    ],
+    "Croatia": [
+        {
+            "first_name": "Dominik",
+            "last_name": "LIVAKOVIC",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Ivo",
+            "last_name": "GRBIC",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Ivica",
+            "last_name": "IVUSIC",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Josip",
+            "last_name": "STANISIC",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Borna",
+            "last_name": "BARISIC",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Martin",
+            "last_name": "ERLIC",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Dejan",
+            "last_name": "LOVREN",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Borna",
+            "last_name": "SOSA",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Josko",
+            "last_name": "GVARDIOL",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Domagoj",
+            "last_name": "VIDA",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Josip",
+            "last_name": "JURANOVIC",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Josip",
+            "last_name": "SUTALO",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Ivan",
+            "last_name": "PERISIC",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Andrej",
+            "last_name": "KRAMARIC",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Marko",
+            "last_name": "LIVAJA",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Bruno",
+            "last_name": "PETKOVIC",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Ante",
+            "last_name": "BUDIMIR",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Mislav",
+            "last_name": "ORSIC",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Lovro",
+            "last_name": "MAJER",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Mateo",
+            "last_name": "KOVACIC",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Luka",
+            "last_name": "MODRIC",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Marcelo",
+            "last_name": "BROZOVIC",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Nikola",
+            "last_name": "VLASIC",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Mario",
+            "last_name": "PASALIC",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Luka",
+            "last_name": "SUCIC",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Kristijan",
+            "last_name": "JAKIC",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Zlatko",
+            "last_name": "Dali\u0107",
+            "role": "MANAGER"
+        }
+    ],
+    "Denmark": [
+        {
+            "first_name": "Kasper",
+            "last_name": "SCHMEICHEL",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Oliver",
+            "last_name": "CHRISTENSEN",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Frederik",
+            "last_name": "RONNOW",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Joachim",
+            "last_name": "ANDERSEN",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Victor",
+            "last_name": "NELSSON",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Simon",
+            "last_name": "KJAER",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Joakim",
+            "last_name": "MAEHLE",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Andreas",
+            "last_name": "CHRISTENSEN",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Rasmus",
+            "last_name": "KRISTENSEN",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Jens",
+            "last_name": "STRYGER LARSEN",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Daniel",
+            "last_name": "WASS",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Alexander",
+            "last_name": "BAH",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Mathias",
+            "last_name": "JENSEN",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Thomas",
+            "last_name": "DELANEY",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Christian",
+            "last_name": "ERIKSEN",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Andreas",
+            "last_name": "SKOV OLSEN",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Mikkel",
+            "last_name": "DAMSGAARD",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Christian",
+            "last_name": "NORGAARD",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Pierre-Emile",
+            "last_name": "HOJBJERG",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Robert",
+            "last_name": "SKOV",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Jesper",
+            "last_name": "LINDSTROM",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Martin",
+            "last_name": "BRAITHWAITE",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Kasper",
+            "last_name": "DOLBERG",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Jonas",
+            "last_name": "WIND",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Yussuf",
+            "last_name": "YURARY POULSEN",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Andreas",
+            "last_name": "CORNELIUS",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Kasper",
+            "last_name": "Hjulmand",
+            "role": "MANAGER"
+        }
+    ],
+    "Ecuador": [
+        {
+            "first_name": "Hernan",
+            "last_name": "GALINDEZ",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Moises",
+            "last_name": "RAMIREZ",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Alexander",
+            "last_name": "DOMINGUEZ",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Felix",
+            "last_name": "TORRES",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Piero",
+            "last_name": "HINCAPIE",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Robert",
+            "last_name": "ARBOLEDA",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "William",
+            "last_name": "PACHO",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Pervis",
+            "last_name": "ESTUPINAN",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Xavier",
+            "last_name": "ARREAGA",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Angelo",
+            "last_name": "PRECIADO",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Diego",
+            "last_name": "PALACIOS",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Jackson",
+            "last_name": "POROZO",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Jose",
+            "last_name": "CIFUENTES",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Carlos",
+            "last_name": "GRUEZO",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Eduar",
+            "last_name": "PRECIADO",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Romario",
+            "last_name": "IBARRA",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Angel",
+            "last_name": "MENA",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Jeremy",
+            "last_name": "SARMIENTO",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Gonzalo",
+            "last_name": "PLATA",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Jhegson",
+            "last_name": "MENDEZ",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Alan",
+            "last_name": "FRANCO",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Moises",
+            "last_name": "CAICEDO",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Michael",
+            "last_name": "ESTRADA",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Enner",
+            "last_name": "VALENCIA",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Djorkaeff",
+            "last_name": "REASCO",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Kevin",
+            "last_name": "RODRIGUEZ",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Gustavo",
+            "last_name": "ALFARO",
+            "role": "MANAGER"
+        }
+    ],
+    "England": [
+        {
+            "first_name": "Jordan",
+            "last_name": "PICKFORD",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Nick",
+            "last_name": "POPE",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Aaron",
+            "last_name": "RAMSDALE",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Kyle",
+            "last_name": "WALKER",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Luke",
+            "last_name": "SHAW",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "John",
+            "last_name": "STONES",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Harry",
+            "last_name": "MAGUIRE",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Kieran",
+            "last_name": "TRIPPIER",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Eric",
+            "last_name": "DIER",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Conor",
+            "last_name": "COADY",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Trent",
+            "last_name": "ALEXANDER-ARNOLD",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Ben",
+            "last_name": "WHITE",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Declan",
+            "last_name": "RICE",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Jordan",
+            "last_name": "HENDERSON",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Kalvin",
+            "last_name": "PHILLIPS",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Mason",
+            "last_name": "MOUNT",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Phil",
+            "last_name": "FODEN",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Jude",
+            "last_name": "BELLINGHAM",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "James",
+            "last_name": "MADDISON",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Conor",
+            "last_name": "GALLAGHER",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Jack",
+            "last_name": "GREALISH",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Harry",
+            "last_name": "KANE",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Raheem",
+            "last_name": "STERLING",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Marcus",
+            "last_name": "RASHFORD",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Bukayo",
+            "last_name": "SAKA",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Callum",
+            "last_name": "WILSON",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Gareth",
+            "last_name": "Southgate",
+            "role": "MANAGER"
+        }
+    ],
+    "France": [
+        {
+            "first_name": "Hugo",
+            "last_name": "LLORIS",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Steve",
+            "last_name": "MANDANDA",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Alphonse",
+            "last_name": "AREOLA",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Benjamin",
+            "last_name": "PAVARD",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Axel",
+            "last_name": "DISASI",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Raphael",
+            "last_name": "VARANE",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Jules",
+            "last_name": "KOUNDE",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Youssouf",
+            "last_name": "Fofana",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "William",
+            "last_name": "SALIBA",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Dayot",
+            "last_name": "UPAMECANO",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Lucas",
+            "last_name": "HERNANDEZ",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Theo",
+            "last_name": "HERNANDEZ",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Ibrahima",
+            "last_name": "KONATE",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Matteo",
+            "last_name": "GUENDOUZI",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Aurelien",
+            "last_name": "TCHOUAMENI",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Adrien",
+            "last_name": "RABIOT",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Jordan",
+            "last_name": "VERETOUT",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Eduardo",
+            "last_name": "CAMAVINGA",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Antoine",
+            "last_name": "GRIEZMANN",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Olivier",
+            "last_name": "GIROUD",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Kylian",
+            "last_name": "MBAPPE",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Ousmane",
+            "last_name": "DEMBELE",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Randal",
+            "last_name": "KOLO MUANI",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Karim",
+            "last_name": "BENZEMA",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Kingsley",
+            "last_name": "COMAN",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Marcus",
+            "last_name": "THURAM",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Didier",
+            "last_name": "Deschamps",
+            "role": "MANAGER"
+        }
+    ],
+    "Germany": [
+        {
+            "first_name": "Manuel",
+            "last_name": "NEUER",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Kevin",
+            "last_name": "TRAPP",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Marc-Andre",
+            "last_name": "TER STEGEN",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Antonio",
+            "last_name": "RUEDIGER",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "David",
+            "last_name": "RAUM",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Matthias",
+            "last_name": "GINTER",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Thilo",
+            "last_name": "KEHRER",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Niklas",
+            "last_name": "SUELE",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Lukas",
+            "last_name": "KLOSTERMANN",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Christian",
+            "last_name": "GUENTER",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Nico",
+            "last_name": "SCHLOTTERBECK",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Armel",
+            "last_name": "BELLA KOTCHAP",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Joshua",
+            "last_name": "KIMMICH",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Leon",
+            "last_name": "GORETZKA",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Mario",
+            "last_name": "GOETZE",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Thomas",
+            "last_name": "MUELLER",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Jamal",
+            "last_name": "MUSIALA",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Julian",
+            "last_name": "BRANDT",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Jonas",
+            "last_name": "HOFMANN",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Leroy",
+            "last_name": "SANE",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Ilkay",
+            "last_name": "GUENDOGAN",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Kai",
+            "last_name": "HAVERTZ",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Niclas",
+            "last_name": "FUELLKRUG",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Serge",
+            "last_name": "GNABRY",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Karim",
+            "last_name": "ADEYEMI",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Youssoufa",
+            "last_name": "MOUKOKO",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Hans-Dieter",
+            "last_name": "Flick",
+            "role": "MANAGER"
+        }
+    ],
+    "Ghana": [
+        {
+            "first_name": "Lawrence",
+            "last_name": "Ati ZIGI",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Danlad",
+            "last_name": "IBRAHIM",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Abdul",
+            "last_name": "Manaf NURUDEEN",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Tariq",
+            "last_name": "LAMPTEY",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Denis",
+            "last_name": "ODOI",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Mohammed",
+            "last_name": "SALISU",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Gideon",
+            "last_name": "MENSAH",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Joseph",
+            "last_name": "AIDOO",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Baba",
+            "last_name": "RAHMAN",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Daniel",
+            "last_name": "AMARTEY",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Alexander",
+            "last_name": "DJIKU",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Seidu",
+            "last_name": "ALIDU",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Thomas",
+            "last_name": "PARTEY",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Elisha",
+            "last_name": "OWUSU",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Abdul",
+            "last_name": "Fatawu ISSAHAKU",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Daniel-Kofi",
+            "last_name": "KYEREH",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Osman",
+            "last_name": "BUKARI",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Daniel",
+            "last_name": "AFRIYIE",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Kudus",
+            "last_name": "MOHAMMED",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Salis",
+            "last_name": "ABDUL SAMED",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Kamaldeen",
+            "last_name": "SULEMANA",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Kamal",
+            "last_name": "SOWAH",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Jordan",
+            "last_name": "AYEW",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Andre",
+            "last_name": "AYEW",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Inaki",
+            "last_name": "WILLIAMS",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Antoine",
+            "last_name": "SEMENYO",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Otto",
+            "last_name": "ADDO",
+            "role": "MANAGER"
+        }
+    ],
+    "Iran": [
+        {
+            "first_name": "Ali",
+            "last_name": "BEIRANVAND",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Payam",
+            "last_name": "NIAZMAND",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Amir",
+            "last_name": "ABEDZADEH",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Hossein",
+            "last_name": "HOSSEINI",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Sadegh",
+            "last_name": "MOHARRAMI",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Ehsan",
+            "last_name": "HAJI SAFI",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Shojae",
+            "last_name": "KHALILZADEH",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Milad",
+            "last_name": "MOHAMMADI",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Morteza",
+            "last_name": "POURALIGANJI",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Mohammad",
+            "last_name": "KANAANI",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Roozbeh",
+            "last_name": "CHESHMI",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Majid",
+            "last_name": "HOSSEINI",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Ramin",
+            "last_name": "REZAEIAN",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Abolfazl",
+            "last_name": "JALALI",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Saeid",
+            "last_name": "EZATOLAHI",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Alireza",
+            "last_name": "JAHANBAKHSH",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Vahid",
+            "last_name": "AMIRI",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Saman",
+            "last_name": "GHODDOS",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Mahdi",
+            "last_name": "TORABI",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Ali",
+            "last_name": "GHOLIZADEH",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Ali",
+            "last_name": "KARIMI",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Ahmad",
+            "last_name": "NOOROLLAHI",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Mehdi",
+            "last_name": "TAREMI",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Karim",
+            "last_name": "ANSARIFARD",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Sardar",
+            "last_name": "AZMOUN",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Carlos",
+            "last_name": "QUEIROZ",
+            "role": "MANAGER"
+        }
+    ],
+    "Japan": [
+        {
+            "first_name": "Eiji",
+            "last_name": "KAWASHIMA",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Shuichi",
+            "last_name": "GONDA",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Daniel",
+            "last_name": "SCHMIDT",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Miki",
+            "last_name": "YAMANE",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Shogo",
+            "last_name": "TANIGUCHI",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Kou",
+            "last_name": "ITAKURA",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Yuto",
+            "last_name": "NAGATOMO",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Takehiro",
+            "last_name": "TOMIYASU",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Hiroki",
+            "last_name": "SAKAI",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Maya",
+            "last_name": "YOSHIDA",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Hiroki",
+            "last_name": "ITO",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Wataru",
+            "last_name": "ENDO",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Gaku",
+            "last_name": "SHIBASAKI",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Ritsu",
+            "last_name": "DOAN",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Kaoru",
+            "last_name": "MITOMA",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Takumi",
+            "last_name": "MINAMINO",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Takefusa",
+            "last_name": "KUBO",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Hidemasa",
+            "last_name": "MORITA",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Junya",
+            "last_name": "ITO",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Daichi",
+            "last_name": "KAMADA",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Ao",
+            "last_name": "TANAKA",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Yuki",
+            "last_name": "SOMA",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Takuma",
+            "last_name": "ASANO",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Shuto",
+            "last_name": "MACHINO",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Ayase",
+            "last_name": "UEDA",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Daizen",
+            "last_name": "MAEDA",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Hajime",
+            "last_name": "Moriyasu",
+            "role": "MANAGER"
+        }
+    ],
+    "Korea Republic": [
+        {
+            "first_name": "KIM",
+            "last_name": "Seunggyu",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "SONG",
+            "last_name": "Bumkeun",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "JO",
+            "last_name": "Hyeonwoo",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "YOON",
+            "last_name": "Jonggyu",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "KIM",
+            "last_name": "Jinsu",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Kim",
+            "last_name": "MINJAE",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "HONG",
+            "last_name": "Chul",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "KIM",
+            "last_name": "Moonhwan",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "KIM",
+            "last_name": "Younggwon",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "KWON",
+            "last_name": "Kyungwon",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "KIM",
+            "last_name": "Taehwan",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "CHO",
+            "last_name": "Yumin",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "JUNG",
+            "last_name": "Wooyoung",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "HWANG",
+            "last_name": "Inbeom",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "SON",
+            "last_name": "Heungmin",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "PAIK",
+            "last_name": "Seungho",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "LEE",
+            "last_name": "Jaesung",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "HWANG",
+            "last_name": "Heechan",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "SON",
+            "last_name": "Junho",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "NA",
+            "last_name": "Sangho",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "LEE",
+            "last_name": "Kangin",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "KWON",
+            "last_name": "Changhoon",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "JEONG",
+            "last_name": "Wooyeong",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "SONG",
+            "last_name": "Minkyu",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "CHO",
+            "last_name": "Guesung",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "HWANG",
+            "last_name": "Uijo",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Paulo",
+            "last_name": "Jorge Gomes Bento",
+            "role": "MANAGER"
+        }
+    ],
+    "Mexico": [
+        {
+            "first_name": "Alfredo",
+            "last_name": "TALAVERA",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Rodolfo",
+            "last_name": "COTA",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Guillermo",
+            "last_name": "OCHOA",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Nestor",
+            "last_name": "ARAUJO",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Cesar",
+            "last_name": "MONTES",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Edson",
+            "last_name": "ALVAREZ",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Johan",
+            "last_name": "VASQUEZ",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Gerardo",
+            "last_name": "ARTEAGA",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Hector",
+            "last_name": "MORENO",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Jorge",
+            "last_name": "SANCHEZ",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Jesus",
+            "last_name": "GALLARDO",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Kevin",
+            "last_name": "ALVAREZ",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Luis",
+            "last_name": "ROMO",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Carlos",
+            "last_name": "RODRIGUEZ",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Erick",
+            "last_name": "GUTIERREZ",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Hector",
+            "last_name": "HERRERA",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Andres",
+            "last_name": "GUARDADO",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Luis",
+            "last_name": "CHAVEZ",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Raul",
+            "last_name": "JIMENEZ",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Alexis",
+            "last_name": "VEGA",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Rogelio",
+            "last_name": "FUNES MORI",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Orbelin",
+            "last_name": "PINEDA",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Henry",
+            "last_name": "MARTIN",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Uriel",
+            "last_name": "ANTUNA",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Hirving",
+            "last_name": "LOZANO",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Roberto",
+            "last_name": "ALVARADO",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Gerardo",
+            "last_name": "Daniel Martino",
+            "role": "MANAGER"
+        }
+    ],
+    "Morocco": [
+        {
+            "first_name": "Yassine",
+            "last_name": "BOUNOU",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Monir",
+            "last_name": "EL KAJOUI",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Ahmed",
+            "last_name": "TAGNAOUTI",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Achraf",
+            "last_name": "HAKIMI",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Noussair",
+            "last_name": "MAZRAOUI",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Nayef",
+            "last_name": "AGUERD",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Romain",
+            "last_name": "SAISS",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Jawad",
+            "last_name": "EL YAMIQ",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Achraf",
+            "last_name": "DARI",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Badr",
+            "last_name": "BENOUN",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Yahya",
+            "last_name": "ATTIAT-ALLAH",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Sofyan",
+            "last_name": "AMRABAT",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Hakim",
+            "last_name": "ZIYECH",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Azzedine",
+            "last_name": "OUNAHI",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Anass",
+            "last_name": "ZAROURY",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Ilias",
+            "last_name": "CHAIR",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Zakaria",
+            "last_name": "ABOUKHLAL",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Selim",
+            "last_name": "AMALLAH",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Sofiane",
+            "last_name": "BOUFAL",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Bilal",
+            "last_name": "EL KHANNOUSS",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Yahya",
+            "last_name": "JABRANE",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Abderrazak",
+            "last_name": "HAMDALLAH",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Abdelhamid",
+            "last_name": "SABIRI",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Abde",
+            "last_name": "EZZALZOULI",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Youssef",
+            "last_name": "EN NESYRI",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Walid",
+            "last_name": "CHEDDIRA",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Hoalid",
+            "last_name": "REGRAGUI",
+            "role": "MANAGER"
+        }
+    ],
+    "Netherlands": [
+        {
+            "first_name": "Remko",
+            "last_name": "PASVEER",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Justin",
+            "last_name": "BIJLOW",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Andries",
+            "last_name": "NOPPERT",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Jurrien",
+            "last_name": "TIMBER",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Matthijs",
+            "last_name": "DE LIGT",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Virgil",
+            "last_name": "VAN DIJK",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Nathan",
+            "last_name": "AKE",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Stefan",
+            "last_name": "DE VRIJ",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Tyrell",
+            "last_name": "MALACIA",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Daley",
+            "last_name": "BLIND",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Denzel",
+            "last_name": "DUMFRIES",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Jeremie",
+            "last_name": "FRIMPONG",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Steven",
+            "last_name": "BERGWIJN",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Cody",
+            "last_name": "GAKPO",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Luuk",
+            "last_name": "DE JONG",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Memphis",
+            "last_name": "DEPAY",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Noa",
+            "last_name": "LANG",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Vincent",
+            "last_name": "JANSSEN",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Wout",
+            "last_name": "WEGHORST",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Steven",
+            "last_name": "BERGHUIS",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Davy",
+            "last_name": "KLAASSEN",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Marten",
+            "last_name": "DE ROON",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Teun",
+            "last_name": "KOOPMEINERS",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Frenkie",
+            "last_name": "DE JONG",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Kenneth",
+            "last_name": "TAYLOR",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Xavi",
+            "last_name": "SIMONS",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Louis",
+            "last_name": "van Gaal",
+            "role": "MANAGER"
+        }
+    ],
+    "Poland": [
+        {
+            "first_name": "Wojciech",
+            "last_name": "SZCZESNY",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Lukasz",
+            "last_name": "SKORUPSKI",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Kamil",
+            "last_name": "GRABARA",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Matty",
+            "last_name": "CASH",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Artur",
+            "last_name": "JEDRZEJCZYK",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Mateusz",
+            "last_name": "WIETESKA",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Jan",
+            "last_name": "BEDNAREK",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Jakub",
+            "last_name": "KIWIOR",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Kamil",
+            "last_name": "GLIK",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Bartosz",
+            "last_name": "BERESZYNSKI",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Robert",
+            "last_name": "GUMNY",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Krystian",
+            "last_name": "BIELIK",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Damian",
+            "last_name": "SZYMANSKI",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Grzegorz",
+            "last_name": "KRYCHOWIAK",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Kamil",
+            "last_name": "GROSICKI",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Jakub",
+            "last_name": "KAMINSKI",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Szymon",
+            "last_name": "ZURKOWSKI",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Sebastian",
+            "last_name": "SZYMANSKI",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Piotr",
+            "last_name": "ZIELINSKI",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Nicola",
+            "last_name": "ZALEWSKI",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Przemyslaw",
+            "last_name": "FRANKOWSKI",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Michal",
+            "last_name": "SKORAS",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Arkadiusz",
+            "last_name": "MILIK",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Robert",
+            "last_name": "LEWANDOWSKI",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Karol",
+            "last_name": "SWIDERSKI",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Krzysztof",
+            "last_name": "PIATEK",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Czes\u0142aw",
+            "last_name": "Michniewicz",
+            "role": "MANAGER"
+        }
+    ],
+    "Portugal": [
+        {
+            "first_name": "RUI",
+            "last_name": "PATRICIO",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "JOSE",
+            "last_name": "SA",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "DIOGO",
+            "last_name": "COSTA",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "DIOGO",
+            "last_name": "DALOT",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "PEPE",
+            "last_name": "",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "RUBEN",
+            "last_name": "DIAS",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "RAPHAEL",
+            "last_name": "GUERREIRO",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "DANILO",
+            "last_name": "",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "NUNO",
+            "last_name": "MENDES",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "JOAO",
+            "last_name": "CANCELO",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "ANTONIO",
+            "last_name": "SILVA",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "JOAO",
+            "last_name": "PALHINHA",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "BRUNO",
+            "last_name": "FERNANDES",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "WILLIAM",
+            "last_name": "",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "VITINHA",
+            "last_name": "",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "JOAO",
+            "last_name": "MARIO",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "RUBEN",
+            "last_name": "NEVES",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "MATHEUS",
+            "last_name": "NUNES",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "OTAVIO",
+            "last_name": "",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "CRISTIANO",
+            "last_name": "RONALDO",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "ANDRE",
+            "last_name": "SILVA",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "BERNARDO",
+            "last_name": "SILVA",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "JOAO",
+            "last_name": "FELIX",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "RAFAEL",
+            "last_name": "LEAO",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Ricardo",
+            "last_name": "HORTA",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "GONCALO",
+            "last_name": "RAMOS",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Fernando",
+            "last_name": "Manuel Fernandes da Costa Santos",
+            "role": "MANAGER"
+        }
+    ],
+    "Qatar": [
+        {
+            "first_name": "SAAD",
+            "last_name": "ALSHEEB",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "YOUSOF",
+            "last_name": "HASSAN",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "MESHAAL",
+            "last_name": "BARSHAM",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "PEDRO",
+            "last_name": "MIGUEL",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "MOHAMMED",
+            "last_name": "WAAD",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "TAREK",
+            "last_name": "SALMAN",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "MUSAAB",
+            "last_name": "KHIDIR",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "HOMAM",
+            "last_name": "AHMED",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "BASSAM",
+            "last_name": "HISHAM",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "BOUALEM",
+            "last_name": "KHOUKHI",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "ISMAIL",
+            "last_name": "MOHAMAD",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "ABDELKARIM",
+            "last_name": "HASSAN",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "ABDULAZIZ",
+            "last_name": "HATEM",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "ALI",
+            "last_name": "ASSADALLA",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "HASSAN",
+            "last_name": "ALHAYDOS",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "KARIM",
+            "last_name": "BOUDIAF",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "SALEM",
+            "last_name": "AL HAJRI",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "ASSIM",
+            "last_name": "MADIBO",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "NAIF",
+            "last_name": "ABDULRAHEEM",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "JASSEM",
+            "last_name": "GABER",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "MOUSTAFA",
+            "last_name": "TAREK",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "AHMED",
+            "last_name": "ALAAELDIN",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "MOHAMMED",
+            "last_name": "MUNTARI",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "AKRAM",
+            "last_name": "AFIF",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "KHALID",
+            "last_name": "MUNEER",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "ALMOEZ",
+            "last_name": "ALI",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "F\u00e9lix",
+            "last_name": "S\u00e1nchez Bas",
+            "role": "MANAGER"
+        }
+    ],
+    "Saudi Arabia": [
+        {
+            "first_name": "MOHAMMED",
+            "last_name": "ALYAMI",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "MOHAMMED",
+            "last_name": "ALOWAIS",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "NAWAF",
+            "last_name": "ALAQIDI",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "SULTAN",
+            "last_name": "ALGHANNAM",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "ABDULLAH",
+            "last_name": "MADU",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Abdulelah",
+            "last_name": "ALAMRI",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "ALI",
+            "last_name": "ALBULAYHI",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "MOHAMMED",
+            "last_name": "ALBURAYK",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "SAUD",
+            "last_name": "ABDULHAMID",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "YASSER",
+            "last_name": "ALSHAHRANI",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Hassan",
+            "last_name": "ALTAMBAKTI",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "SALMAN",
+            "last_name": "ALFARAJ",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "ABDULELAH",
+            "last_name": "ALMALKI",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "ABDULLAH",
+            "last_name": "OTAYF",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "ALI",
+            "last_name": "ALHASSAN",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Sami",
+            "last_name": "ALNAJI",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "NAWAF",
+            "last_name": "AL ABID",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "MOHAMED",
+            "last_name": "KANNO",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Nasser",
+            "last_name": "ALDAWSARI",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "RIYADH",
+            "last_name": "SHARAHILI",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "FERAS",
+            "last_name": "ALBRIKAN",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "SALEM",
+            "last_name": "ALDAWSARI",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "SALEH",
+            "last_name": "ALSHEHRI",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "HATAN",
+            "last_name": "BAHBRI",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "ABDULRAHMAN",
+            "last_name": "ALOBUD",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "HAITHAM",
+            "last_name": "ASIRI",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Herv\u00e9",
+            "last_name": "Renard",
+            "role": "MANAGER"
+        }
+    ],
+    "Senegal": [
+        {
+            "first_name": "Seny",
+            "last_name": "DIENG",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Edouard",
+            "last_name": "MENDY",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Alfred",
+            "last_name": "GOMIS",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Formose",
+            "last_name": "MENDY",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Kalidou",
+            "last_name": "KOULIBALY",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Pape",
+            "last_name": "Abou CISSE",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Cheikhou",
+            "last_name": "KOUYATE",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Moussa",
+            "last_name": "NDIAYE",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Fode",
+            "last_name": "BALLO",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Ismail",
+            "last_name": "JAKOBS",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Youssouf",
+            "last_name": "SABALY",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Abdou",
+            "last_name": "DIALLO",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Moustapha",
+            "last_name": "NAME",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Idrissa",
+            "last_name": "Gana GUEYE",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Nampalys",
+            "last_name": "MENDY",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Pathe",
+            "last_name": "CISS",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Krepin",
+            "last_name": "DIATTA",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Pape",
+            "last_name": "SARR",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Mamadou",
+            "last_name": "NDIAYE",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Pape",
+            "last_name": "GUEYE",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Nicolas",
+            "last_name": "JACKSON",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Boulaye",
+            "last_name": "DIA",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Iliman",
+            "last_name": "NDIAYE",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Ismaila",
+            "last_name": "SARR",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Famara",
+            "last_name": "DIEDHIOU",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Cheikh",
+            "last_name": "DIENG",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Aliou",
+            "last_name": "Ciss\u00e9",
+            "role": "MANAGER"
+        }
+    ],
+    "Serbia": [
+        {
+            "first_name": "Marko",
+            "last_name": "DMITROVIC",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Predrag",
+            "last_name": "RAJKOVIC",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Vanja",
+            "last_name": "MILINKOVIC",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Strahinja",
+            "last_name": "PAVLOVIC",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Strahinja",
+            "last_name": "ERAKOVIC",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Nikola",
+            "last_name": "MILENKOVIC",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Milos",
+            "last_name": "VELJKOVIC",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Stefan",
+            "last_name": "MITROVIC",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Srdan",
+            "last_name": "BABIC",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Filip",
+            "last_name": "MLADENOVIC",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Nemanja",
+            "last_name": "MAKSIMOVIC",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Nemanja",
+            "last_name": "GUDELJ",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Andrija",
+            "last_name": "ZIVKOVIC",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Sasa",
+            "last_name": "LUKIC",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Filip",
+            "last_name": "KOSTIC",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Uros",
+            "last_name": "RACIC",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Sergej",
+            "last_name": "MILINKOVIC-SAVIC",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Darko",
+            "last_name": "LAZOVIC",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Ivan",
+            "last_name": "ILIC",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Marko",
+            "last_name": "GRUJIC",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Nemanja",
+            "last_name": "RADONJIC",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Aleksandar",
+            "last_name": "MITROVIC",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Dusan",
+            "last_name": "TADIC",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Luka",
+            "last_name": "JOVIC",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Dusan",
+            "last_name": "VLAHOVIC",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Filip",
+            "last_name": "DJURICIC",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Dragan",
+            "last_name": "Stojkovi\u0107",
+            "role": "MANAGER"
+        }
+    ],
+    "Spain": [
+        {
+            "first_name": "Robert",
+            "last_name": "SANCHEZ",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "David",
+            "last_name": "RAYA",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Unai",
+            "last_name": "SIMON",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Cesar",
+            "last_name": "AZPILICUETA",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Eric",
+            "last_name": "GARCIA",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Pau",
+            "last_name": "TORRES",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Alejandro",
+            "last_name": "BALDE",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Hugo",
+            "last_name": "GUILLAMON",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Jordi",
+            "last_name": "ALBA",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Dani",
+            "last_name": "CARVAJAL",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Aymeric",
+            "last_name": "LAPORTE",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Sergio",
+            "last_name": "BUSQUETS",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Marcos",
+            "last_name": "LLORENTE",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "KOKE",
+            "last_name": "",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "GAVI",
+            "last_name": "",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "RODRI",
+            "last_name": "",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Carlos",
+            "last_name": "SOLER",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Pedri",
+            "last_name": "GONZALEZ",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Alvaro",
+            "last_name": "MORATA",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Marco",
+            "last_name": "ASENSIO",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Ferran",
+            "last_name": "TORRES",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Nico",
+            "last_name": "WILLIAMS",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Yeremy",
+            "last_name": "PINO",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Dani",
+            "last_name": "OLMO",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Pablo",
+            "last_name": "SARABIA",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Ansu",
+            "last_name": "FATI",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Luis",
+            "last_name": "Enrique Mart\u00ednez Garc\u00eda",
+            "role": "MANAGER"
+        }
+    ],
+    "Switzerland": [
+        {
+            "first_name": "Yann",
+            "last_name": "SOMMER",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Jonas",
+            "last_name": "OMLIN",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Gregor",
+            "last_name": "KOBEL",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Philipp",
+            "last_name": "KOEHN",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Edimilson",
+            "last_name": "FERNANDES",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Silvan",
+            "last_name": "WIDMER",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Nico",
+            "last_name": "ELVEDI",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Manuel",
+            "last_name": "AKANJI",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Renato",
+            "last_name": "STEFFEN",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Ricardo",
+            "last_name": "RODRIGUEZ",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Eray",
+            "last_name": "COMERT",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Fabian",
+            "last_name": "SCHAER",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Denis",
+            "last_name": "ZAKARIA",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Remo",
+            "last_name": "FREULER",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Granit",
+            "last_name": "XHAKA",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Michel",
+            "last_name": "AEBISCHER",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Mohameth",
+            "last_name": "SOW",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Christian",
+            "last_name": "FASSNACHT",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Fabian",
+            "last_name": "FREI",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Xherdan",
+            "last_name": "SHAQIRI",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Fabian",
+            "last_name": "RIEDER",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Ardon",
+            "last_name": "JASHARI",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Breel",
+            "last_name": "EMBOLO",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Haris",
+            "last_name": "SEFEROVIC",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Ruben",
+            "last_name": "VARGAS",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Noah",
+            "last_name": "OKAFOR",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Murat",
+            "last_name": "Yakin",
+            "role": "MANAGER"
+        }
+    ],
+    "Tunisia": [
+        {
+            "first_name": "Aymen",
+            "last_name": "MATHLOUTHI",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Aymen",
+            "last_name": "DAHMEN",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Bechir",
+            "last_name": "BEN SAID",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Mouez",
+            "last_name": "HASSEN",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Bilel",
+            "last_name": "IFA",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Montassar",
+            "last_name": "TALBI",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Yassine",
+            "last_name": "MERIAH",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Dylan",
+            "last_name": "BRONN",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Ali",
+            "last_name": "MAALOUL",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Mohamed",
+            "last_name": "DRAGER",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Wajdi",
+            "last_name": "KECHRIDA",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Ali",
+            "last_name": "ABDI",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Nader",
+            "last_name": "GHANDRI",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Hannibal",
+            "last_name": "MEJBRI",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Ferjani",
+            "last_name": "SASSI",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Aissa",
+            "last_name": "LAIDOUNI",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "BEN",
+            "last_name": "ROMDHANE Ali",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Ellyes",
+            "last_name": "SKHIRI",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Ghaylen",
+            "last_name": "CHAALELI",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Youssef",
+            "last_name": "MSAKNI",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Issam",
+            "last_name": "JEBALI",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Wahbi",
+            "last_name": "KHAZRI",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Taha",
+            "last_name": "KHENISSI",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Seifeddine",
+            "last_name": "JAZIRI",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Naim",
+            "last_name": "SLITI",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Anis",
+            "last_name": "SLIMANE",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Jalel",
+            "last_name": "KADRI",
+            "role": "MANAGER"
+        }
+    ],
+    "United States": [
+        {
+            "first_name": "Matt",
+            "last_name": "TURNER",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Ethan",
+            "last_name": "HORVATH",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Sean",
+            "last_name": "JOHNSON",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Sergino",
+            "last_name": "DEST",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Walker",
+            "last_name": "ZIMMERMAN",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Antonee",
+            "last_name": "ROBINSON",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Tim",
+            "last_name": "REAM",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Aaron",
+            "last_name": "LONG",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Shaquell",
+            "last_name": "MOORE",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Cameron",
+            "last_name": "CARTER-VICKERS",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "DeAndre",
+            "last_name": "YEDLIN",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Joe",
+            "last_name": "SCALLY",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Tyler",
+            "last_name": "ADAMS",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Yunus",
+            "last_name": "MUSAH",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Weston",
+            "last_name": "McKENNIE",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Luca",
+            "last_name": "DE LA TORRE",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Cristian",
+            "last_name": "ROLDAN",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Kellyn",
+            "last_name": "PERRY-ACOSTA",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Giovanni",
+            "last_name": "REYNA",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Jesus",
+            "last_name": "FERREIRA",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Christian",
+            "last_name": "PULISIC",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Brenden",
+            "last_name": "AARONSON",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Jordan",
+            "last_name": "MORRIS",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Haji",
+            "last_name": "WRIGHT",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Tim",
+            "last_name": "WEAH",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Josh",
+            "last_name": "SARGENT",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Gregg",
+            "last_name": "Berhalter",
+            "role": "MANAGER"
+        }
+    ],
+    "Uruguay": [
+        {
+            "first_name": "Fernando",
+            "last_name": "MUSLERA",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Sebastian",
+            "last_name": "SOSA",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Sergio",
+            "last_name": "ROCHET",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Jose",
+            "last_name": "GIMENEZ",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Diego",
+            "last_name": "GODIN",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Ronald",
+            "last_name": "ARAUJO",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Guillermo",
+            "last_name": "VARELA",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Mathias",
+            "last_name": "OLIVERA",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Matias",
+            "last_name": "VINA",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Sebastian",
+            "last_name": "COATES",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Martin",
+            "last_name": "CACERES",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Jose",
+            "last_name": "Luis RODRIGUEZ",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Matias",
+            "last_name": "VECINO",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Rodrigo",
+            "last_name": "BENTANCUR",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Nicolas",
+            "last_name": "DE LA CRUZ",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Giorgian",
+            "last_name": "DE ARRASCAETA",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Lucas",
+            "last_name": "TORREIRA",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Federico",
+            "last_name": "VALVERDE",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Agustin",
+            "last_name": "CANOBBIO",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Manuel",
+            "last_name": "UGARTE",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Facundo",
+            "last_name": "PELLISTRI",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Luis",
+            "last_name": "SUAREZ",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Darwin",
+            "last_name": "NUNEZ",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Maximiliano",
+            "last_name": "GOMEZ",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Facundo",
+            "last_name": "TORRES",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Edinson",
+            "last_name": "CAVANI",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Diego",
+            "last_name": "ALONSO",
+            "role": "MANAGER"
+        }
+    ],
+    "Wales": [
+        {
+            "first_name": "Wayne",
+            "last_name": "HENNESSEY",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Danny",
+            "last_name": "WARD",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Adam",
+            "last_name": "DAVIES",
+            "role": "GOALKEEPER"
+        },
+        {
+            "first_name": "Chris",
+            "last_name": "GUNTER",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Neco",
+            "last_name": "WILLIAMS",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Ben",
+            "last_name": "DAVIES",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Chris",
+            "last_name": "MEPHAM",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Joe",
+            "last_name": "RODON",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Connor",
+            "last_name": "ROBERTS",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Ethan",
+            "last_name": "AMPADU",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Tom",
+            "last_name": "LOCKYER",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Ben",
+            "last_name": "CABANGO",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Rubin",
+            "last_name": "COLWILL",
+            "role": "DEFENDER"
+        },
+        {
+            "first_name": "Joe",
+            "last_name": "ALLEN",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Harry",
+            "last_name": "WILSON",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Aaron",
+            "last_name": "RAMSEY",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Joseff",
+            "last_name": "MORRELL",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Jonathan",
+            "last_name": "WILLIAMS",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Sorba",
+            "last_name": "THOMAS",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Dylan",
+            "last_name": "LEVITT",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Matt",
+            "last_name": "SMITH",
+            "role": "MIDFIELDER"
+        },
+        {
+            "first_name": "Brennan",
+            "last_name": "JOHNSON",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Gareth",
+            "last_name": "BALE",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Kieffer",
+            "last_name": "MOORE",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Mark",
+            "last_name": "HARRIS",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Daniel",
+            "last_name": "JAMES",
+            "role": "FORWARD"
+        },
+        {
+            "first_name": "Robert",
+            "last_name": "John Page",
+            "role": "MANAGER"
+        }
+    ]
+}
